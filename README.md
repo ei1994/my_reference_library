@@ -3,8 +3,11 @@
 ## papers — image matching and registration
 
 * matching   
-1、CVPR2015 [Learning to Compare Image Patches via Convolutional Neural Networks](https://github.com/ei1994/my_reference_library/blob/master/papers/Learning%20to%20Compare%20Image%20Patches%20via%20Convolutional%20Neural%20Networks.pdf)---------[论文笔记](https://www.cnblogs.com/eilearn/p/9970144.html)   
-2、CVPR2016 [Learning cross-spectral similarity measures with deep convolutional neural networks](https://github.com/ei1994/my_reference_library/blob/master/papers/Learning%20cross-spectral%20similarity%20measures%20with%20deep%20convolutional%20neural%20networks.pdf)---------[论文笔记](https://www.cnblogs.com/eilearn/p/9970144.html)
+1、CVPR2015 [Learning to Compare Image Patches via Convolutional Neural Networks](https://github.com/ei1994/my_reference_library/tree/master/papers)---------[论文笔记](https://www.cnblogs.com/eilearn/p/9970144.html)   
+
+2、CVPR2015 [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](https://github.com/ei1994/my_reference_library/tree/master/papers)---------[论文笔记](https://www.cnblogs.com/eilearn/p/9973480.html)   
+
+3、CVPR2016 [Learning cross-spectral similarity measures with deep convolutional neural networks](https://github.com/ei1994/my_reference_library/tree/master/papers)---------[论文笔记]()
 
 
 
